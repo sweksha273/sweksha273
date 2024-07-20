@@ -1,4 +1,4 @@
-![logo](C:\Users\asus\Downloads\Sweksha link.jpg)
+
 <h1 align="center">Hi 👋, I'm sweksha gupta</h1>
 <h3 align="center">A passionate Data Analytics engineer</h3>
 
