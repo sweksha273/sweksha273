@@ -39,7 +39,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-![GSSoC_badges](https://gssoc-dymanic-badges.vercel.app/api/<sweksha273>?year=<Ext'24>)
+[![GSSoC_badges](https://gssoc-dymanic-badges.vercel.app/api/<sweksha273>?year=<2024Extd>)](https://gssoc.girlscript.tech)
 <!--
 **sweksha273/sweksha273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
